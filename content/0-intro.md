@@ -23,7 +23,7 @@ However, for more advanced uses you will want Git, Ruby, and Jekyll installed on
 
 # What is data storytelling?
 
-## Gapminder example
+
 
 [Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine. 
 
@@ -37,6 +37,20 @@ You can install GitHub Desktop in addition to other versions of Git.
 There are other [GUI apps available](https://git-scm.com/downloads/guis) for managing and visualizing Git repositories, including Linux options.
 
 # From data to knowledge
+
+[Slide / image]
+
+If a story is brought together by your data, visuals and narratives- let’s start by looking at your data.  
+
+Data is the basis of your research, where you derive your insights.  
+
+Data starts off as numbers and letters but by exploring the relationships between your data, you create information.  
+
+This information is great, but you need to explain what this information means .. creating Knowledge.  
+
+This knowledge is what we want to share with people 
+
+## Gapminder example
 
 [Ruby](https://www.ruby-lang.org/en/) is a fairly young and developing programming language with some unique features. 
 To use Jekyll, you do not need to know anything about Ruby, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/).
