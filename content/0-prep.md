@@ -1,8 +1,10 @@
 ---
 title: Introduction
 nav: Intro
-topics: GitHub; Optional Software
+topics: What is data storytelling?; From data to knowledge; What we cover in this resource
 ---
+
+"Data is the new oil" --- Someone
 
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
 Basic familiarity with the GitHub web interface will be helpful.
@@ -19,9 +21,9 @@ However, for more advanced uses you will want Git, Ruby, and Jekyll installed on
 {% endcapture %}
 {% include card.html text=text header="Setup Overview" %}
 
-# Local Jekyll Setup [optional]
+# What is data storytelling?
 
-## Install Git
+## Gapminder example
 
 [Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine. 
 
@@ -34,7 +36,7 @@ You can install GitHub Desktop in addition to other versions of Git.
 
 There are other [GUI apps available](https://git-scm.com/downloads/guis) for managing and visualizing Git repositories, including Linux options.
 
-## Install Ruby
+# From data to knowledge
 
 [Ruby](https://www.ruby-lang.org/en/) is a fairly young and developing programming language with some unique features. 
 To use Jekyll, you do not need to know anything about Ruby, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/).
@@ -49,7 +51,7 @@ Jekyll requires a Ruby version > 2.2.5.
 - **Mac:** OS X has a version of Ruby installed by default. Check the version with `ruby -v`. If it is > 2.2.5 you can use the system Ruby. However, a newer version can be installed using [Homebrew](https://brew.sh/), `brew install ruby`, or a manager such as [rbenv](https://github.com/rbenv/rbenv) or [RVM](http://rvm.io/). Check the official Jekyll [Mac install docs](https://jekyllrb.com/docs/installation/#macOS) for tips.
 - **Linux:** Even though the version will not be the most up-to-date, the simplest method is to use your distro's repositories. For example on Ubuntu, `sudo apt install ruby-full`. Make sure the repository version is > 2.2.5. You will also need the build tools Make and GCC, on Ubuntu get them with `sudo apt install build-essential`. For a more up-to-date version, use a manager such as [RVM](http://rvm.io/).
 
-## Install Jekyll
+## What is covered in this resource
 
 Jekyll is a Gem, a software package installed via Ruby's management system called RubyGems (similar to Python's Pip). 
 Open a terminal and type:
