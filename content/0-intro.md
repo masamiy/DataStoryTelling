@@ -38,7 +38,7 @@ There are other [GUI apps available](https://git-scm.com/downloads/guis) for man
 
 # From data to knowledge
 
-[Slide / image]
+[featured-image: "/images/From_data_to_knowldge.jpg"]
 
 If a story is brought together by your data, visuals and narratives- let’s start by looking at your data.  
 
