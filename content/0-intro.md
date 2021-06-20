@@ -52,6 +52,8 @@ This knowledge is what we want to share with people
 
 ## Gapminder example
 
+Watch this 4 minutes [video](youtubeid: jbkSRLYSojo)
+
 [Ruby](https://www.ruby-lang.org/en/) is a fairly young and developing programming language with some unique features. 
 To use Jekyll, you do not need to know anything about Ruby, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/).
 Frustratingly, different versions have many dependency and incompatibility problems.
