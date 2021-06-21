@@ -54,12 +54,10 @@ This knowledge is what we want to share with people
 
 Watch this 4 minutes [video](youtubeid: jbkSRLYSojo)
 
-[Ruby](https://www.ruby-lang.org/en/) is a fairly young and developing programming language with some unique features. 
-To use Jekyll, you do not need to know anything about Ruby, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/).
-Frustratingly, different versions have many dependency and incompatibility problems.
-Because of these issues, many use Ruby Managers, such as [RVM](http://rvm.io/), to switch between versions.
-However, if you are just interested in working with Jekyll, using an installer for your OS should be sufficient.
-Jekyll requires a Ruby version > 2.2.5.
+Do you find his finding interesting? Did you feel Hans Roslling's excitement?
+
+Do you think you feel the same excitement if he presents his finding in a data file, e.g., Microsoft Excel sheet?
+
 
 - **Windows:** Use [RubyInstaller for Windows](https://rubyinstaller.org/). 
     - First, [download](https://rubyinstaller.org/downloads/) the suggested stable version "WITH DEVKIT" (as of this writing, Ruby+Devkit 2.7.X (x64)) and double click to install. Use the install defaults, but make sure "Add Ruby executables to your PATH" is checked. On the final step, ensure the box to start the MSYS2 DevKit is checked.
