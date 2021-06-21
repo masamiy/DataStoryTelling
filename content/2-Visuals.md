@@ -30,6 +30,11 @@ https://earthengine.google.com/timelapse/
 - This word cloud is developed from Shakespeare masterpieces.
 "image/Word_Cloud.png"
 
+### Inspired by examples
+Data Viz Project ("https://datavizproject.com/") gives you sooo many ideas about graph designs.
+
+
+
 
 Edit the `_config.yml` to get your workshop website set up with the basics such as `title` and `author`.
 Check comments in the file for all the options!
