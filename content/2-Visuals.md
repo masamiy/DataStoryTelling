@@ -21,8 +21,11 @@ Earth Timelapse is a global, zoomable video that lets you see how the Earth has 
 https://earthengine.google.com/timelapse/
 
 ### Interactive graphs
-- This new York Times' swing history graph really impressess audience.
+- This New York Times' swing history graph really impressess audience.
 "image/Swing_State.png"
+
+- This ABC 2020 US election story covers complex stories with data very clear way.
+"image/abc_Election.png"
 
 - This word cloud is developed from Shakespeare masterpieces.
 "image/Word_Cloud.png"
