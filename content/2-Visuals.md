@@ -32,7 +32,7 @@ https://earthengine.google.com/timelapse/
 
 ### Inspired by examples
 Data Viz Project ("https://datavizproject.com/") gives you sooo many ideas about graph designs.
-
+"image/Data_Viz_Project.png"
 
 
 
