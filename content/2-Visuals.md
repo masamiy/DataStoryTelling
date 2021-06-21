@@ -24,6 +24,10 @@ https://earthengine.google.com/timelapse/
 This new York Times' swing history graph really impressess audience.
 "image/Swing_State.png"
 
+This word cloud is developed from Shakespeare masterpieces.
+"image/Word_Cloud.png"
+
+
 Edit the `_config.yml` to get your workshop website set up with the basics such as `title` and `author`.
 Check comments in the file for all the options!
 
