@@ -1,23 +1,28 @@
 ---
-title: Get Started
-nav: Start
+title: Visuals
+nav: Visuals
 topics: Template; Config; Lorem ipsum
 ---
 
-The `workshop-template-b` [repository](https://github.com/evanwill/workshop-template-b) is a template project--to get started quickly, make a copy and fill in your own content and customizations.
-This [site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on GitHub Pages, and the content pages serve as examples.
+## Visualisations
 
-{% capture text %}
-1. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own new copy of the code.
-2. Work on the GitHub web interface or clone to your local machine to edit files.
-3. Edit the `_config.yml` with your info.
-4. Edit the content pages in markdown.
-5. Add images to the "images" folder.
-5. Push to GitHub or commit on the web interface.
-6. In your repository's settings, activate GitHub Pages, using main branch.{% endcapture %}
-{% include card.html header="Overview" text=text %}
+We now explore some examples of visualisations. Be aware there are so many possibilities out there for visualising your data. Think beyond the standard line or bar graphs!
 
-## Basic Configuration
+### Visualise your thesis
+Visualise Your Thesis (https://library.unimelb.edu.au/research/visualise-your-thesis#resources) is an international competition run by the University of Melbourne that challenges Higher Degree by Research (HDR) students to summarise their research in an engaging, 60-second visual presentation using a supplied template, that encapsulates your research project. It gives you the opportunity to build essential digital communication skills so you can effectively communicate complex research to a general audience. Competition submissions are judged on their visual impact, and how well the content presents the research. The competition allows for multi-media, interactivity and interpretation and is suitable for all disciplines. The video here is from a 2019 winner, HDR student at UTS.
+youtubeid: Am-AvhPl0jA
+
+### Video timelapse
+You can highlight that time lapses would work well for event set ups, constructing buildings, or use of infrastructure throughout a day. This Pea Shoot video is very peaceful and therapeutic. 
+youtubeid: w77zPAtVTuI
+
+### Google Earth Timelapse
+Earth Timelapse is a global, zoomable video that lets you see how the Earth has changed.
+https://earthengine.google.com/timelapse/
+
+### Interactive graphs
+This new York Times' swing history graph really impressess audience.
+"image/Swing_State.png"
 
 Edit the `_config.yml` to get your workshop website set up with the basics such as `title` and `author`.
 Check comments in the file for all the options!
