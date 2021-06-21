@@ -5,10 +5,11 @@ nav: Start telling your story
 
 How can you start telling your story? Too often data storytelling is interpreted as just visualizing data effectively, however, it is much more than just creating visually-appealing data charts. Data storytelling is a structured approach for communicating data insights, and it involves a combination of three key elements: Data, Visuals & Narrative
 
+{% include figure.html img="/image/Data_Narrative_Visuals.png" alt="workshop scene" caption="Data storytelling elements" width="75%" %}"
 
 ## What you need to think
 
-Data storytelling is a combunation of data, visuals and narrative. So, your planning can start by thinking:
+Your planning can start by thinking:
 
 ### Visuals
 Think beyond the standard line or bar graphs
