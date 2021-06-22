@@ -8,8 +8,36 @@ Every piece of information we learn is founded on something we have already lear
 - Sequencing different types of visualisations
 - Drilling deeper into a single visualisaion
 
-### Putting it together
+## Putting it together
 Do you know Dr Ignaz Semmelweis? 
+{% include figure.html img="DrSemmelweis.jpg" alt="Dr Semmelweis" caption="Dr Semmelweis" width="75%" %}
+
+Watch his story from [here]
+
+### Lessons learnt from Semmelweis story
+1. Timeliness and Clarity
+- He did not publish for 14 years
+- His findings were not well communicated
+2. Audience and the Curse of Knowledge
+- His audience (Doctors) at the time were not used to being criticised
+- Instead of concept sharing and patience, he went on the attack and threw insults at his critics
+3. Narrative Evokes Emotion
+- Failed to tell the story of his data- did not humanize his patients but treated them as numbers
+- Provided numbers instead of impact
+4. Power of Data Visualization
+- Relied primarily on data tables
+- Ignored the Visual effect of graphs
+
+### Activity
+If you were Dr Semmelweis, how would you storyboard your ideas and re-tell your story?
+
+Things you may want to think are:
+- What audience would you focus on?
+- What angle would you use to appeal to your audience?
+- What would be your call to action? - Not sure that I understand 'call to action"
+- Develop a brief flow of ideas about how you would most logically convey the story.
+
+
 
 To learn about using `workshop-template-b`, the [Readme](https://github.com/evanwill/workshop-template-b/blob/master/README.md) and content pages have some documentation.
 
