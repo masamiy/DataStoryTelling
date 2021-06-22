@@ -7,6 +7,8 @@ description: >
 youtubeid: moJgWrD6dwg
 ---
 People remembers a story
+Story is a very powerful stuff - it gets people together.
+How do you develop your story? There are a couple of hits:
 
 ## Frame your ideas with your audience's view
 Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values / views.
@@ -22,7 +24,7 @@ For example, if you have someone that isn’t that interested in the environment
 The rising cost of insurance due to more natural disasters, caused by the change in weather cycles
 The financial benefit and potential profit of hosting electronic vehicle production in Australia or cheap maintenance on solar farms vs profit
 
-### Success story by Bono (U2)
+#### Success story by Bono (U2)
 Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is a nice article [here](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html). 
 
 ## Structure your story
