@@ -27,6 +27,14 @@ Did you know that Bono was a strong advocate of AIDS support? He reached out to 
 ## Structure your story
 Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.” 
 Narrative flow = Story (how it might be described in chronological order) + Plot (how the story is told)
+### Storyboarding
+A storyboard is a planning tool for visualising and organising ideas
+
+A storyboard helps you:
+Define the parameters of a story within available resources and time
+Organize and focus a story
+Figure out what medium to use for each part of the story
+![image](https://user-images.githubusercontent.com/19921944/122855900-4c43e480-d359-11eb-8af8-94f06d42e8ce.png)
 
 
 
