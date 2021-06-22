@@ -17,23 +17,24 @@ You can highlight that time lapses would work well for event set ups, constructi
 youtubeid: w77zPAtVTuI
 
 ### Google Earth Timelapse
-Earth Timelapse is a global, zoomable video that lets you see how the Earth has changed.
-https://earthengine.google.com/timelapse/
+[Google Earth Timelapse](https://earthengine.google.com/timelapse/) is a global, zoomable video that lets you see how the Earth has changed.
 
 ### Interactive graphs
 - This New York Times' swing history graph really impressess audience.
-"image/Swing_State.png"
+"/image/Swing_State.png"
 
 - This ABC 2020 US election story covers complex stories with data very clear way.
-"image/abc_Election.png"
+ `{% include figure.html img="abc_Election.png" alt="cat" caption="My cat" width="50%" %}`
 
 - This word cloud is developed from Shakespeare masterpieces.
-"image/Word_Cloud.png"
+"/image/Word_Cloud.png"
 
 ### Inspired by examples
-Data Viz Project ("https://datavizproject.com/") gives you sooo many ideas about graph designs.
-"image/Data_Viz_Project.png"
+[Data Viz Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
+"/image/Data_Viz_Project.png"
 
+### For R / Python users
+- 
 
 
 Edit the `_config.yml` to get your workshop website set up with the basics such as `title` and `author`.
