@@ -24,15 +24,15 @@ You can highlight that time lapses would work well for event set ups, constructi
 "/image/Swing_State.png"
 
 - This ABC 2020 US election story covers complex stories with data very clear way.
- `{% include figure.html img="abc_Election.png" alt="cat" caption="My cat" width="50%" %}`
+ `{% include figure.html img="abc_Election.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}`
 
 - This word cloud is developed from Shakespeare masterpieces.
-"/image/Word_Cloud.png"
-
+ `{% include figure.html img="Word_Cloud.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}`
+ 
 ### Inspired by examples
 [Data Viz Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
-"/image/Data_Viz_Project.png"
-
+ `{% include figure.html img="Data_Viz_project.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}`
+ 
 ### For R / Python users
 If you are thinking of developing some visuals with R / Python, they will give you an idea together with coding :)
 - [DataVizCatalogue](https://datavizcatalogue.com/)
