@@ -11,7 +11,18 @@ People remembers a story
 ## Frame your ideas with your audience's view
 Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values / views.
 
+### Biases to be aware of - Confirmation bias
+"We give special weight to information that allows us to come to the conclusion we want to reach." We tend to cherry-pick information that confirms our existing beliefs or ideas.
+
+### How to challenge bias?
+If possible, get some background understanding of your audience. What would their current perception be, or potential concerns around the topic of interest? Can you approach your topic from a different direction?
+For example, if you have someone that isn’t that interested in the environment, and thinks that environmental laws cost too much money for business, but you want to highlight climate change, talk about :
+
+The rising cost of insurance due to more natural disasters, caused by the change in weather cycles
+The financial benefit and potential profit of hosting electronic vehicle production in Australia or cheap maintenance on solar farms vs profit
+
 ### Success story by Bono (U2)
+Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is a nice article [here](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html). 
 
 
 Content pages are written in markdown and can be enhanced using Liquid includes that are packaged with the template.
