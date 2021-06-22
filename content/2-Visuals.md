@@ -10,11 +10,11 @@ We now explore some examples of visualisations. Be aware there are so many possi
 
 ### Visualise your thesis
 [Visualise Your Thesis](https://library.unimelb.edu.au/research/visualise-your-thesis#resources) is an international competition run by the University of Melbourne that challenges Higher Degree by Research (HDR) students to summarise their research in an engaging, 60-second visual presentation using a supplied template, that encapsulates your research project. It gives you the opportunity to build essential digital communication skills so you can effectively communicate complex research to a general audience. Competition submissions are judged on their visual impact, and how well the content presents the research. The competition allows for multi-media, interactivity and interpretation and is suitable for all disciplines. The video here is from a 2019 winner, HDR student at UTS.
-youtubeid: Am-AvhPl0jA
+{% include video-embed.html youtubeid="Am-AvhPl0jA" caption="Visualise Your Thesis" %}
 
 ### Video timelapse
 You can highlight that time lapses would work well for event set ups, constructing buildings, or use of infrastructure throughout a day. This Pea Shoot video is very peaceful and therapeutic. 
-youtubeid: w77zPAtVTuI
+{% include video-embed.html youtubeid="w77zPAtVTuI" caption="Visualise Your Thesis" %}
 
 ### Google Earth Timelapse
 [Google Earth Timelapse](https://earthengine.google.com/timelapse/) is a global, zoomable video that lets you see how the Earth has changed.
