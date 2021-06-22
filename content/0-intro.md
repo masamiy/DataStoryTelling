@@ -8,7 +8,7 @@ topics: What is data storytelling?; From data to knowledge; What we cover in thi
  `{% include figure.html img="Data_Narrative_Visuals.png" alt="cat" caption="Data Storytelling elements" width="70%" %}`
 
 # From data to knowledge
- `{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="From data to Knowledge" width="70%" %}`
+ `{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="From data to Knowledge" width="80%" %}`
 
 
 If a story is brought together by your data, visuals and narratives- let’s start by looking at your data.  
@@ -21,7 +21,7 @@ This information is great, but you need to explain what this information means .
 
 This knowledge is what we want to share with people 
 
-## Gapminder example
+## Activity - Gapminder
 
 Watch this 4 minutes video. 
 {% include video-embed.html youtubeid="jbkSRLYSojo" caption="Visualise Your Thesis" %}
@@ -29,6 +29,9 @@ Watch this 4 minutes video.
 Do you find his finding interesting? Did you feel Hans Roslling's excitement?
 
 Do you think you feel the same excitement if he presents his finding in a data file, e.g., Microsoft Excel sheet?
+
+
+
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
 Basic familiarity with the GitHub web interface will be helpful.
 
