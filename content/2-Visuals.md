@@ -38,6 +38,10 @@ If you are thinking of developing some visuals with R / Python, they will give y
 - [DataVizCatalogue](https://datavizcatalogue.com/)
  `{% include figure.html img="DataVizCatalogue.png" alt="DataVizCatalogue" caption="DataVizZatalogue.com" width="50%" %}`
 - [from Data to Viz](https://www.data-to-viz.com/)
+`{% include figure.html img="DataToViz.png" alt="DataToViz" caption="dada-to-viz.com" width="50%" %}`
+
+
+
 
 Edit the `_config.yml` to get your workshop website set up with the basics such as `title` and `author`.
 Check comments in the file for all the options!
