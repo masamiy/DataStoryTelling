@@ -31,10 +31,10 @@ Narrative flow = Story (how it might be described in chronological order) + Plot
 A storyboard is a planning tool for visualising and organising ideas
 
 A storyboard helps you:
-Define the parameters of a story within available resources and time
-Organize and focus a story
+- Define the parameters of a story within available resources and time
+- Organize and focus a story
 Figure out what medium to use for each part of the story
-![image](https://user-images.githubusercontent.com/19921944/122855900-4c43e480-d359-11eb-8af8-94f06d42e8ce.png)
+{% include figure.html img="Storyboarding.png" alt="Storyboarding" caption="Storyboarding example" width="75%" %}
 
 
 
