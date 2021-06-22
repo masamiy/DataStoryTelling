@@ -5,6 +5,7 @@ topics: What is data storytelling?; From data to knowledge; What we cover in thi
 ---
 
 # What is data storytelling?
+ `{% include figure.html img="Data_Narrative_Visuals.png" alt="cat" caption="Data Storytelling elements" width="70%" %}`
 
 # From data to knowledge
  `{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}`
