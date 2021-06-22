@@ -1,7 +1,15 @@
 ---
-title: Reference & Resources
-nav: Resources
+title: Knowledge is incremental
+nav: Knowledge
 ---
+
+Every piece of information we learn is founded on something we have already learned before. Thus, layering information is critical. It is a tool you can use to guide your audience through a complex story. In data storytelling, we can achieve this by:
+- Compounding builds in visualisation
+- Sequencing different types of visualisations
+- Drilling deeper into a single visualisaion
+
+### Putting it together
+Do you know Dr Ignaz Semmelweis? 
 
 To learn about using `workshop-template-b`, the [Readme](https://github.com/evanwill/workshop-template-b/blob/master/README.md) and content pages have some documentation.
 
