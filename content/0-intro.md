@@ -7,8 +7,8 @@ topics: What is data storytelling?; From data to knowledge; What we cover in thi
 # What is data storytelling?
 
 # From data to knowledge
+ `{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}`
 
-[featured-image: "/images/From_data_to_knowldge.jpg"]
 
 If a story is brought together by your data, visuals and narratives- let’s start by looking at your data.  
 
