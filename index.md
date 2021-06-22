@@ -3,9 +3,8 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
-
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+# Welcome to Data Storytelling tutorial!
+{% include figure.html img="charts-CC0.png" alt="intro image here" caption="Welcome to data storytelling tutorial!" width="75%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
