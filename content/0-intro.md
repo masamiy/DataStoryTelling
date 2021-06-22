@@ -1,40 +1,10 @@
 ---
-title: Introduction
-nav: Intro
+title: What is data storytelling?
+nav: What is data storytelling?
 topics: What is data storytelling?; From data to knowledge; What we cover in this resource
 ---
 
-"Data is the new oil" --- Someone
-
-To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
-Basic familiarity with the GitHub web interface will be helpful.
-
-For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).
-
-It is possible to create a website with this template using only GitHub's web interface--in fact, it works great!
-However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
-
-{% capture text %}
-1. Have a [GitHub](https://github.com) account.
-2. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own copy.
-3. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
-{% endcapture %}
-{% include card.html text=text header="Setup Overview" %}
-
 # What is data storytelling?
-
-
-
-[Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine. 
-
-- Windows: install [Git for Windows](https://git-for-windows.github.io/) using the default options. This will give you Git, Git Bash, and Git GUI. Git Bash is a great terminal that lets you use UNIX style commands on Windows.
-- Mac: check if Git is already installed by opening terminal and typing `git --version`. If you do not have it, download the official [Mac installer](https://git-scm.com/downloads).
-- Linux: check if Git is already installed by opening terminal and typing `git --version`. If you do not have it, install from your distribution's software center or package manager (for Ubuntu `sudo apt install git`).
-
-If you are interested in using a visual GUI application integrated with GitHub, Windows and Mac users should also install [GitHub Desktop](https://desktop.github.com/) using the default options.
-You can install GitHub Desktop in addition to other versions of Git.
-
-There are other [GUI apps available](https://git-scm.com/downloads/guis) for managing and visualizing Git repositories, including Linux options.
 
 # From data to knowledge
 
@@ -58,6 +28,37 @@ Watch this 4 minutes video.
 Do you find his finding interesting? Did you feel Hans Roslling's excitement?
 
 Do you think you feel the same excitement if he presents his finding in a data file, e.g., Microsoft Excel sheet?
+To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
+Basic familiarity with the GitHub web interface will be helpful.
+
+For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).
+
+It is possible to create a website with this template using only GitHub's web interface--in fact, it works great!
+However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
+
+{% capture text %}
+1. Have a [GitHub](https://github.com) account.
+2. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own copy.
+3. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
+{% endcapture %}
+{% include card.html text=text header="Setup Overview" %}
+
+
+
+
+
+[Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine. 
+
+- Windows: install [Git for Windows](https://git-for-windows.github.io/) using the default options. This will give you Git, Git Bash, and Git GUI. Git Bash is a great terminal that lets you use UNIX style commands on Windows.
+- Mac: check if Git is already installed by opening terminal and typing `git --version`. If you do not have it, download the official [Mac installer](https://git-scm.com/downloads).
+- Linux: check if Git is already installed by opening terminal and typing `git --version`. If you do not have it, install from your distribution's software center or package manager (for Ubuntu `sudo apt install git`).
+
+If you are interested in using a visual GUI application integrated with GitHub, Windows and Mac users should also install [GitHub Desktop](https://desktop.github.com/) using the default options.
+You can install GitHub Desktop in addition to other versions of Git.
+
+There are other [GUI apps available](https://git-scm.com/downloads/guis) for managing and visualizing Git repositories, including Linux options.
+
+
 
 
 - **Windows:** Use [RubyInstaller for Windows](https://rubyinstaller.org/). 
