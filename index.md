@@ -13,7 +13,7 @@ The ever increasing number of visualisation tools has created opportunities for 
 
 
 A study by Stanford professor Chip Heath found that during the recall of speeches, 63% of people remember stories and how they made them feel, however only 5% remember a single statistic .
-Data storytelling training can help researchers construct stories that incite an emotional response and create meaning and understanding for the audience.
+This tutorial can help you construct stories that incite an emotional response and create meaning and understanding for the audience.
 
 
 
