@@ -1,13 +1,18 @@
 ---
-title: Create Lesson Content
-nav: Content
-topics: Markdown; Includes
+title: Narrative
+nav: Narrative
+topics: Narrative; Frame your ideas
 description: >
     This section has example Bootstrap feature includes that can be used to add some interest to your lesson content. Directly below this is an example video embed!
 youtubeid: moJgWrD6dwg
 ---
+People remembers a story
 
-## Content Pages
+## Frame your ideas with your audience's view
+Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values / views.
+
+### Success story by Bono (U2)
+
 
 Content pages are written in markdown and can be enhanced using Liquid includes that are packaged with the template.
 Start by editing the examples or creating new files in the "content" folder.
