@@ -53,6 +53,11 @@ There are a couple of simple techniques to make your point clearer. Introducing 
 ### Highlight areas
 
 
+Are you inspired by looking at examples of beautiful visuals?
+Next section is about a narrative, which is another vital part of storytelling.
+
+
+
 
 Edit the `_config.yml` to get your workshop website set up with the basics such as `title` and `author`.
 Check comments in the file for all the options!
