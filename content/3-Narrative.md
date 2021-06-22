@@ -1,15 +1,16 @@
 ---
-title: Narrative
+title: Power of story
 nav: Narrative
 topics: Narrative; Frame your ideas
 description: >
-    This section has example Bootstrap feature includes that can be used to add some interest to your lesson content. Directly below this is an example video embed!
+    This section explores the power of story!
 youtubeid: moJgWrD6dwg
 ---
 People remembers a story
 
 ## Frame your ideas with your audience's view
 Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values / views.
+youtubeid: moJgWrD6dwg
 
 ### Biases to be aware of - Confirmation bias
 "We give special weight to information that allows us to come to the conclusion we want to reach." We tend to cherry-pick information that confirms our existing beliefs or ideas.
