@@ -6,6 +6,13 @@ layout: default
 # Welcome to Data Storytelling tutorial!
 {% include figure.html img="charts-CC0.png" alt="intro image here" caption="Welcome to data storytelling tutorial!" width="75%" %}
 
+*"Data is the new oil" - Clive Humby, Data science innovator*
+
+Nowadays, more information created than our audience could possibly analyse on their own! Instead, research is completed and insights are discovered and the concepts are shared through stories
+
+
+
+
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
 *Add your workshop abstract here!*
