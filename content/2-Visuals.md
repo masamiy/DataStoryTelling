@@ -9,7 +9,7 @@ topics: Template; Config; Lorem ipsum
 We now explore some examples of visualisations. Be aware there are so many possibilities out there for visualising your data. Think beyond the standard line or bar graphs!
 
 ### Visualise your thesis
-Visualise Your Thesis (https://library.unimelb.edu.au/research/visualise-your-thesis#resources) is an international competition run by the University of Melbourne that challenges Higher Degree by Research (HDR) students to summarise their research in an engaging, 60-second visual presentation using a supplied template, that encapsulates your research project. It gives you the opportunity to build essential digital communication skills so you can effectively communicate complex research to a general audience. Competition submissions are judged on their visual impact, and how well the content presents the research. The competition allows for multi-media, interactivity and interpretation and is suitable for all disciplines. The video here is from a 2019 winner, HDR student at UTS.
+[Visualise Your Thesis](https://library.unimelb.edu.au/research/visualise-your-thesis#resources) is an international competition run by the University of Melbourne that challenges Higher Degree by Research (HDR) students to summarise their research in an engaging, 60-second visual presentation using a supplied template, that encapsulates your research project. It gives you the opportunity to build essential digital communication skills so you can effectively communicate complex research to a general audience. Competition submissions are judged on their visual impact, and how well the content presents the research. The competition allows for multi-media, interactivity and interpretation and is suitable for all disciplines. The video here is from a 2019 winner, HDR student at UTS.
 youtubeid: Am-AvhPl0jA
 
 ### Video timelapse
@@ -34,8 +34,10 @@ youtubeid: w77zPAtVTuI
 "/image/Data_Viz_Project.png"
 
 ### For R / Python users
-- 
-
+If you are thinking of developing some visuals with R / Python, they will give you an idea together with coding :)
+- [DataVizCatalogue](https://datavizcatalogue.com/)
+ `{% include figure.html img="DataVizCatalogue.png" alt="DataVizCatalogue" caption="DataVizZatalogue.com" width="50%" %}`
+- [from Data to Viz](https://www.data-to-viz.com/)
 
 Edit the `_config.yml` to get your workshop website set up with the basics such as `title` and `author`.
 Check comments in the file for all the options!
