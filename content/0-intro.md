@@ -52,7 +52,8 @@ This knowledge is what we want to share with people
 
 ## Gapminder example
 
-Watch this 4 minutes [video](youtubeid: jbkSRLYSojo)
+Watch this 4 minutes video. 
+{% include video-embed.html youtubeid="jbkSRLYSojo" caption="Visualise Your Thesis" %}
 
 Do you find his finding interesting? Did you feel Hans Roslling's excitement?
 
