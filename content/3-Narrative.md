@@ -24,6 +24,11 @@ The financial benefit and potential profit of hosting electronic vehicle product
 ### Success story by Bono (U2)
 Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is a nice article [here](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html). 
 
+## Structure your story
+Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.” 
+Narrative flow = Story (how it might be described in chronological order) + Plot (how the story is told)
+
+
 
 Content pages are written in markdown and can be enhanced using Liquid includes that are packaged with the template.
 Start by editing the examples or creating new files in the "content" folder.
