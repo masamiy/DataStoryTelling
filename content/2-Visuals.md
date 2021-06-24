@@ -39,15 +39,15 @@ If you are thinking of developing some visuals with R / Python, they will give y
 
 ## Make sure your point can be seen
 There are amazing and pretty looking visualisations, but, some visualisations may not be so clear that viewers can be confused and get lost.
-Example:
+Here are some examples with before and after:
  {% include figure.html img="Unclear_example.png" alt="" caption="Got it?" width="50%" %}
  {% include figure.html img="Unclear_example2.png" alt="" caption="Got it?" width="50%" %}
 
 ## Simple techniques to make your point clear
-There are a couple of simple techniques to make your point clearer. Introducing a few here:
-### Headlines
-### Callouts
-### Highlight areas
+There are a couple of simple techniques to make your point clearer. Here is a few:
+#### Headlines
+#### Callouts
+#### Highlight areas
 
 
 Are you inspired by looking at examples of beautiful visuals?
