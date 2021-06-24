@@ -4,8 +4,17 @@ nav: What is data storytelling?
 topics: What is data storytelling?; From data to knowledge; What we cover in this resource
 ---
 
-# What is data storytelling?
+## So, what is data storytelling?
  `{% include figure.html img="Data_Narrative_Visuals.png" alt="cat" caption="Data Storytelling elements" width="70%" %}`
+
+Data storytelling is a combination of data, visuals and narrative. The combination of the three can help you explain, enlighten and engage your audience.
+Buildling a narrative around your data, can help you gocus on what you really want to say.
+- Because youh have to get the actual message together before you can tell a story.
+- It can help you articulate the impcat of your story.
+- It means you will be considering who your audience is and crafting a story or a message for them.
+And data means nothing without context, without a story around it and using a narrative can provide context and direction.
+Stories are effective in communicating meaning locked in data.
+
 
 # From data to knowledge
  `{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="From data to Knowledge" width="80%" %}`
