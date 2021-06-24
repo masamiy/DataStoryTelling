@@ -37,6 +37,7 @@ I want you to watch this 4 minutes video and see how data and visuals are enhanc
 
 
 Do you think you feel the same excitement if he presents his finding in a data file, e.g., Microsoft Excel sheet?
-`{% include figure.html img="Excel.png" alt="cat" caption="Gapminder row data" width="70%" %}
+{% include figure.html img="Excel.png" alt="cat" caption="Gapminder row data" width="70%" %}
+
 
 From the next section, we explore how we can start telling a story.
