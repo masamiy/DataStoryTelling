@@ -18,13 +18,13 @@ You can highlight that time lapses would work well for event set ups, constructi
 [Google Earth Timelapse](https://earthengine.google.com/timelapse/) is a global, zoomable video that lets you see how the Earth has changed.
 
 ### Interactive graphs
-- This New York Times' swing history graph really impressess audience.
+- This [New York Times' swing history graph](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html) really impressess audience.
 {% include figure.html img="Swing_State.png" alt="cat" caption="Swing history" width="70%" %}
 
-- This ABC 2020 US election story covers complex stories with data very clear way.
+- This [ABC 2020 US election story](https://www.abc.net.au/news/2020-11-02/us-election-trump-biden-states-polling/12822296) covers complex stories with data very clear way.
 {% include figure.html img="abc_Election.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}
 
-- This word cloud is developed from Shakespeare masterpieces.
+- This [word cloud](https://shiny.rstudio.com/gallery/word-cloud.html) is developed with R Shiny.
 {% include figure.html img="Word_Cloud.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}
  
 ### Inspired by examples
