@@ -1,6 +1,6 @@
 ---
-title: Knowledge is incremental
-nav: Knowledge
+title: Putting it together
+nav: Putting it together
 ---
 
 Every piece of information we learn is founded on something we have already learned before. Thus, layering information is critical. It is a tool you can use to guide your audience through a complex story. In data storytelling, we can achieve this by:
@@ -12,7 +12,7 @@ Every piece of information we learn is founded on something we have already lear
 Do you know Dr Ignaz Semmelweis? 
 {% include figure.html img="DrSemmelweis.jpg" alt="Dr Semmelweis" caption="Dr Semmelweis" width="75%" %}
 
-Watch his story from [here]
+Watch his story from [here]().
 
 ### Lessons learnt from Semmelweis story
 1. Timeliness and Clarity
