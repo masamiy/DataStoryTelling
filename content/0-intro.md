@@ -1,7 +1,7 @@
 ---
 title: What is data storytelling?
 nav: What is data storytelling?
-topics: What is data storytelling?; From data to knowledge; What we cover in this resource
+topics: 
 ---
 
 ## So, what is data storytelling?
@@ -32,7 +32,7 @@ This knowledge is what we want to share with people
 
 ### Activity - Gapminder
 
-I want you to watch this 4 minutes video and see how data and visuals are enhanced by narrative together with Hans Roslling's passion. 
+I want you to watch this 4 minutes video and see how Hans Rosling's narrative enhances data and visuals. 
 {% include video-embed.html youtubeid="jbkSRLYSojo" caption="Gapminder" %}
 
 
@@ -40,4 +40,4 @@ Do you think you feel the same excitement if he presents his finding in a data f
 {% include figure.html img="Excel.png" alt="cat" caption="Gapminder row data" width="70%" %}
 
 
-From the next section, we explore how we can start telling a story.
+We start exploring how we can start telling a story from the next chapter.
