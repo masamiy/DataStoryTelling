@@ -29,7 +29,7 @@ You can highlight that time lapses would work well for event set ups, constructi
  
 ### Inspired by examples
 [Data Viz Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
-{% include figure.html img="Data_Viz_project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
+{% include figure.html img="Data_Viz_Project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
 ### For R / Python users
 If you are thinking of developing some visuals with R / Python, they will give you an idea together with coding :)
 - [DataVizCatalogue](https://datavizcatalogue.com/)
