@@ -12,12 +12,12 @@ Buildling a narrative around your data, can help you gocus on what you really wa
 - Because youh have to get the actual message together before you can tell a story.
 - It can help you articulate the impcat of your story.
 - It means you will be considering who your audience is and crafting a story or a message for them.
+
 And data means nothing without context, without a story around it and using a narrative can provide context and direction.
 Stories are effective in communicating meaning locked in data.
 
-
-# From data to knowledge
- `{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="From data to Knowledge" width="80%" %}`
+## From data to knowledge
+`{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="From data to Knowledge" width="80%" %}`
 
 
 If a story is brought together by your data, visuals and narratives- let’s start by looking at your data.  
@@ -30,15 +30,14 @@ This information is great, but you need to explain what this information means .
 
 This knowledge is what we want to share with people 
 
-## Activity - Gapminder
+### Activity - Gapminder
 
-Watch this 4 minutes video. 
-{% include video-embed.html youtubeid="jbkSRLYSojo" caption="Visualise Your Thesis" %}
+I want you to watch this 4 minutes video and see how data and visuals are enhanced by narrative together with Hans Roslling's passion. 
+{% include video-embed.html youtubeid="jbkSRLYSojo" caption="Gapminder" %}
 
-Do you find his finding interesting? Did you feel Hans Roslling's excitement?
 
 Do you think you feel the same excitement if he presents his finding in a data file, e.g., Microsoft Excel sheet?
-
+`{% include figure.html img="Excel.data" alt="cat" caption="Gapminder row data" width="80%" %}`
 
 
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
