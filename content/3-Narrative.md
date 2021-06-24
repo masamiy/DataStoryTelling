@@ -11,6 +11,11 @@ How do you develop your story? There are a couple of hits:
 ## Frame your ideas with your audience's view
 Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values/views.
 
+## Useful Science
+You can see beutiful summaries of scientific findings [here](https://www.usefulscience.org/). The aim of the site is to make science science useful in daily life and tell you about it in 5 seconds. They target wider and non-specifice audience.
+{% include figure.html img="Useful_Science.png" alt="Storyboarding" caption="usefulscience.org" width="75%" %}
+
+
 ### Biases to be aware of - Confirmation bias
 "We give special weight to information that allows us to come to the conclusion we want to reach." We tend to cherry-pick information that confirms our existing beliefs or ideas.
 
@@ -24,9 +29,15 @@ The financial benefit and potential profit of hosting electronic vehicle product
 #### Success story by Bono (U2)
 Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is a nice article [here](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html). 
 
+### Activity time
+What is your research topic?
+How do you explain your research to an expert in your field?
+How do you explain your research to your non-expert friends?
+
 ## Structure your story
 Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.” 
 Narrative flow = Story (how it might be described in chronological order) + Plot (how the story is told)
+
 ### Storyboarding
 A storyboard is a planning tool for visualising and organising ideas
 
