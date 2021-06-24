@@ -2,7 +2,7 @@
 title: Start telling your story
 nav: Start telling your story
 ---
-{% include figure.html img="What_is_your_story.png" alt="cat" caption="Data Storytelling elements" width="70%" %}
+{% include figure.html img="What_is_your_story.png" alt="cat" caption="What story do you want to tell?" width="80%" %}
 How can you start telling your story? Too often data storytelling is interpreted as just visualising data effectively. However, it is much more than just creating visually-appealing data charts. 
 
 ## What you need to think
