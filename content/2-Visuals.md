@@ -45,9 +45,12 @@ Here are some examples with before and after:
 
 ## Simple techniques to make your point clear
 There are a couple of simple techniques to make your point clearer. Here is a few:
-#### Headlines
-#### Callouts
-#### Highlight areas
+- Headlines
+- Callouts
+- Highlight areas
+
+What do they mean? Have a look at [the video]() below!
+
 
 
 Are you inspired by looking at examples of beautiful visuals?
