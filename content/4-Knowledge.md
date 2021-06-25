@@ -28,7 +28,8 @@ Watch his story from [here](YOUTUBE VIDEO).
 - Relied primarily on data tables
 - Ignored the Visual effect of graphs
 
-### Activity
+### Activity time
+{% include figure.html img="learning-CC0.png" alt="Storyboarding" caption="activity time!" width="60%" %}
 If you were Dr Semmelweis, how would you storyboard your ideas and re-tell your story?
 
 Things you may want to think are:
