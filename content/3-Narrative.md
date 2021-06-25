@@ -30,7 +30,7 @@ The financial benefit and potential profit of hosting electronic vehicle product
 Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is a nice article [here](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html). 
 
 ### Activity time
-{% include figure.html img="learning-CC0.png" alt="Storyboarding" caption="activity time!" width="75%" %}
+{% include figure.html img="learning-CC0.png" alt="Storyboarding" caption="activity time!" width="60%" %}
 What is your research topic?
 Think how you explain your research to an expert in your field.
 Then, think how you explain your research to your non-expert friends.
