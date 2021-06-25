@@ -39,5 +39,5 @@ Things you may want to think are:
 - Develop a brief flow of ideas about how you would most logically convey the story.
 
 
-
-That's it folks!
+{% include figure.html img="Well_Done_CC0.jpg" alt="Dr Semmelweis" caption="Well done!" width="80%" %}
+That's it folks! We hope you enjoy telling your story about your research with data :)
