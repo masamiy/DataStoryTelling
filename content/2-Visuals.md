@@ -34,7 +34,7 @@ If you are thinking of developing some visuals with R / Python, they will give y
 - [DataVizCatalogue](https://datavizcatalogue.com/)
 {% include figure.html img="DataVizCatalogue.png" alt="DataVizCatalogue" caption="DataVizZatalogue.com" width="50%" %}
 - [from Data to Viz](https://www.data-to-viz.com/)
-{% include figure.html img="DataToViz.png" alt="DataToViz" caption="dada-to-viz.com" width="50%" %}
+{% include figure.html img="DataToViz.png" alt="DataToViz" caption="dada-to-viz.com" width="60%" %}
 
 ## Make sure your point can be seen
 There are amazing and pretty looking visualisations, but, some visualisations may not be so clear that viewers can be confused and get lost.
