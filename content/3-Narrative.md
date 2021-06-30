@@ -31,9 +31,9 @@ Did you know that Bono was a strong advocate of AIDS support? He reached out to 
 
 ### Activity time
 {% include figure.html img="learning-CC0.png" alt="Storyboarding" caption="activity time!" width="60%" %}
-What is your research topic?
-Think how you explain your research to an expert in your field.
-Then, think how you explain your research to your non-expert friends.
+- What is your research topic?
+- Think how you explain your research to an expert in your field.
+- Then, think how you explain your research to your non-expert friends.
 
 ## Structure your story
 Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.” 
