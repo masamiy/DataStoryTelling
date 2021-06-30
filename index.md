@@ -18,7 +18,7 @@ This tutorial can help you construct stories that incite an emotional response a
 
 {% include toc.html %}
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [Griffith University Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
 
 ------
 
