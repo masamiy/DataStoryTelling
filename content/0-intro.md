@@ -30,7 +30,7 @@ Data starts off as numbers and letters but by exploring the relationships betwee
 
 This information is great, but you need to explain what this information means .. creating Knowledge.  
 
-This knowledge is what we want to share with people 
+This knowledge is what we want to share with people. 
 
 ### Activity - Gapminder
 
