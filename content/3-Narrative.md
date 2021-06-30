@@ -27,7 +27,7 @@ The rising cost of insurance due to more natural disasters, caused by the change
 The financial benefit and potential profit of hosting electronic vehicle production in Australia or cheap maintenance on solar farms vs profit
 
 #### Success story by Bono (U2)
-Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is a nice article [here](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html). 
+Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is [a nice article] (https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html) to read. 
 
 ### Activity time
 {% include figure.html img="learning-CC0.png" alt="Storyboarding" caption="activity time!" width="60%" %}
