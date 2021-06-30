@@ -12,7 +12,7 @@ Every piece of information we learn is founded on something we have already lear
 Do you know Dr Ignaz Semmelweis? 
 {% include figure.html img="DrSemmelweis.png" alt="Dr Semmelweis" caption="Dr Semmelweis" width="50%" %}
 
-Watch his story from [here](YOUTUBE VIDEO).
+Watch his story from [here (Amanda)](YOUTUBE VIDEO).
 
 ### Lessons learnt from Semmelweis story
 1. Timeliness and Clarity
