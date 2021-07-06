@@ -8,11 +8,12 @@ layout: default
 
 *"Data is the new oil" - Clive Humby, Data science innovator*
 
-Nowadays, more information created than our audience could possibly analyse on their own! Instead, research is completed and insights are discovered and the concepts are shared through stories
-The ever increasing number of visualisation tools has created opportunities for researchers to explore methods of transforming their research data into compelling and impactful visuals. But how do researchers turn complex ideas, research findings and visuals into a message that non-experts can understand? And how can you add meaning and context to their data and visualisations?
-
+Nowadays, more information created than our audience could possibly analyse on their own! Instead, research is completed and insights are discovered and the concepts are shared through stories. 
 
 A study by Stanford professor Chip Heath found that during the recall of speeches, 63% of people remember stories and how they made them feel, however only 5% remember a single statistic.
+
+Visualisation tools have created opportunities for researchers to explore methods of transforming their research data into compelling and impactful visuals. But how do researchers turn complex ideas, research findings and visuals into a message that non-experts can understand? And how can you add meaning and context to their data and visualisations?
+
 
 This tutorial can help you construct stories that incite an emotional response and create meaning and understanding for the audience.
 
