@@ -1,10 +1,9 @@
 ---
 title: Power of story
 nav: Narrative
-description: >
-    In this section we explores the power of story!
+description:
 ---
-People remembers a story
+In this section, we explore the power of story. 
 Story is a very powerful stuff - it gets people together.
 How do you develop your story? There are a couple of hits:
 
