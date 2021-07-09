@@ -2,7 +2,32 @@
 title: Resources
 nav: Resources for this tutorial
 ---
-
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1 (14th Oct)</h3>
+    <table class="table table-striped">
+      <tr> <td>12:30</td> <td>Welcome </td> </tr>
+      <tr> <td>12:45</td> <td>Building Skill with Practice </td> </tr>
+      <tr> <td>13:55</td> <td>Expertise and Instruction </td> </tr>
+      <tr> <td>14:55</td> <td>Break </td> </tr>
+      <tr> <td>15:10</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>16:10</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td>16:30</td> <td>Finish</td> </tr>
+     </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 2 (15th Oct)</h3>
+    <table class="table table-striped">
+      <tr> <td>12:30</td> <td>Welcome Back </td> </tr>
+      <tr> <td>12:40</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>14:10</td> <td>Mindset </td> </tr>
+      <tr> <td>14:40</td> <td>Break </td> </tr>
+      <tr> <td>14:45</td> <td>Teaching is a Skill </td> </tr>
+      <tr> <td>16:10</td> <td>Homework for Tomorrow </td> </tr>
+      <tr> <td>16:30</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+   
 ### Pages we used to learn about storytelling:  
 Authour | Title   | Publisher  | Publication date
 -------| ----- | --------- | ---------------- 
