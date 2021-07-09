@@ -13,8 +13,8 @@ Do you know Dr Ignaz Semmelweis?
 {% include figure.html img="DrSemmelweis.png" alt="Dr Semmelweis" caption="Dr Semmelweis" width="50%" %}
 
 Watch his story from [here](https://youtu.be/-hc7WR72CB4O).
-
-### Lessons learnt from Semmelweis story
+{% include video-embed.html youtubeid="-hc7WR72CB4" caption="Dr Semmelweis story" %}
+### Lessons learnt from Dr Semmelweis story
 1. Timeliness and Clarity
 - He did not publish for 14 years
 - His findings were not well communicated
