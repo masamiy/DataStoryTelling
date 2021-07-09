@@ -47,4 +47,4 @@ A storyboard helps you:
 Figure out what medium to use for each part of the story
 {% include figure.html img="Storyboarding.png" alt="Storyboarding" caption="Storyboarding example" width="75%" %}
 
-It is time to put things together!
+It is time to [put things together](https://masamiy.github.io/content/4-Putting-things-together.html)!
