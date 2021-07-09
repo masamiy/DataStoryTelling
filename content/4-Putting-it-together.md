@@ -12,7 +12,7 @@ Every piece of information we learn is founded on something we have already lear
 Do you know Dr Ignaz Semmelweis? 
 {% include figure.html img="DrSemmelweis.png" alt="Dr Semmelweis" caption="Dr Semmelweis" width="50%" %}
 
-He was a medical doctor, who made a great discovery in Vienna. However, he did not communicate it well and had a sad ending of his career. A video below tells you in details together with lessons we can learn from him.
+He was a medical doctor, who made a great discovery when he was working at Vienna Hospital. However, he did not communicate it well and had a sad ending of his career. A video below tells you in details together with lessons we can learn from him. He had a [Wikipedia entry](https://en.wikipedia.org/wiki/Ignaz_Semmelweis), too.
 {% include video-embed.html youtubeid="-hc7WR72CB4" caption="Dr Semmelweis story" %}
 ### Lessons learnt from Dr Semmelweis story
 1. Timeliness and Clarity
