@@ -1,6 +1,6 @@
 ---
-title: Putting it together
-nav: Putting it together
+title: Putting things together
+nav: Putting things together
 ---
 
 Every piece of information we learn is founded on something we have already learned before. Thus, layering information is critical. It is a tool you can use to guide your audience through a complex story. In data storytelling, we can achieve this by:
