@@ -11,7 +11,7 @@ How do you develop your story? There are a couple of hits:
 Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values/views.
 
 ### Tell a story for a wider and non-specialised audience
-You can see beutiful summaries of scientific findings [here](https://www.usefulscience.org/). The aim of the site is to make science science useful in daily life and tell you about it in 5 seconds. They target wider and non-specifice audience.
+You can see beutiful summaries of scientific findings in [Useful Science](https://www.usefulscience.org/). The aim of the site is to make science useful in daily life by telling  a new discovery in 5 seconds' reading to wider and non-specifice audience.
 {% include figure.html img="Useful_Science.png" alt="Storyboarding" caption="usefulscience.org" width="75%" %}
 
 
