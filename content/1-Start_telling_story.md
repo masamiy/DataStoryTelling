@@ -24,4 +24,4 @@ You have to get the actual message together before you can tell a story.
 It can help you articulate the impact of your story.
 
 
-Let's have a look at beautiful visual examples including not so beautiful ones at next page.
+Let's have a look at beautiful and not so beautiful visual examples at [next page](https://masamiy.github.io/content/2-Visuals.html).
