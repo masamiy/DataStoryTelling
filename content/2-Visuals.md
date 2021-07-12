@@ -21,16 +21,13 @@ We now explore some examples of visualisations. Be aware there are so many possi
 {% include figure.html img="Swing_State.png" alt="cat" caption="Swing history" width="70%" %}
 
 - [ABC 2020 US election story](https://www.abc.net.au/news/2020-11-02/us-election-trump-biden-states-polling/12822296) covers complex stories with data very clear way.
-{% include figure.html img="abc_Election.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %}
-
-- [Brisbane floods photo comparison](http://www.abc.net.au/news/specials/qld-floods/) presents how Brisbane was affected by 2011 floods by comparing photos. You can create this photo comparison by using a free tool introduced in HERE.    
+{% include figure.html img="abc_Election.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %} 
 
 - This [word cloud](https://shiny.rstudio.com/gallery/word-cloud.html) is developed with R Shiny.
 {% include figure.html img="Word_Cloud.png" alt="cat" caption="Shakespeare's favourite words are...?" width="70%" %}
- 
-### Inspired by examples
-[Data Viz Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
-{% include figure.html img="Data_Viz_Project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
+
+- [Brisbane floods photo comparison](http://www.abc.net.au/news/specials/qld-floods/) presents how Brisbane was affected by 2011 floods by comparing photos. You can create this photo comparison by using a free tool introduced in HERE. 
+  
 ### For R / Python users
 If you are thinking of developing some visuals with R / Python, they will give you an idea together with coding :)
 - [DataVizCatalogue](https://datavizcatalogue.com/)
@@ -38,6 +35,10 @@ If you are thinking of developing some visuals with R / Python, they will give y
 - [from Data to Viz](https://www.data-to-viz.com/)
 {% include figure.html img="DataToViz.png" alt="DataToViz" caption="dada-to-viz.com" width="60%" %}
 
+### Inspired by examples
+[Data Viz Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
+{% include figure.html img="Data_Viz_Project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
+  
 ## Make sure your point can be seen
 There are amazing and pretty looking visualisations, but, some visualisations may not be so clear that viewers can be confused and get lost.
 Here are some examples with before and after [video (Brett)]:
