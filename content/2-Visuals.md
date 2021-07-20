@@ -41,9 +41,14 @@ If you are thinking of developing some visuals with R / Python, they will give y
   
 ## Make sure your point can be seen
 There are amazing and pretty looking visualisations, but, some visualisations may not be so clear that viewers can be confused and get lost.
-Here are some examples with before and after [video (Brett)]:
- {% include figure.html img="Unclear_example.png" alt="" caption="Got it?" width="50%" %}
- {% include figure.html img="Unclear_example2.png" alt="" caption="Got it?" width="50%" %}
+So pictorials are amazing for relaying often complex and large amounts of information in easy to understand format. We can create some amazing, pretty and colourfully graphs, but if the user cannot clearly understand the point you are trying to relay, then the graph has failed. The next three graphs are examples of convoluted graphs. 
+
+ {% include figure.html img="Unclear_example.png" alt="" width="50%" %}
+The first graph shows how BI customers use their platforms. The y axis shows the breakdown of all the different platforms and how they are used, and the x axis shows cumulative percentages. For a start, cumulative percentage should be out of 100%, maybe it should be number of respondents? Beyond this though, its very difficult to compare different useages between platforms.
+ 
+ {% include figure.html img="Unclear_example2.png" alt="" width="50%" %}
+This graph would be better if it was the total users per platform.
+This is a better way to present this graph as it breaks it down and present each use of platforms as its own graph. This allows for easy comparison between
 
 ## Simple techniques to make your point clear
 There are a couple of simple techniques to make your point clearer. Here is a few:
