@@ -17,6 +17,9 @@ nav: Resources for this tutorial
 
 | **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
 | Mike Morrison | [How to create a better research poster in less time](https://www.youtube.com/watch?v=1RwJbhkCA58) | YouTube | 26/05/2019 |
+
+
+
 | Nancy Durate | [How to identiyfy and tell your most powerful stories](https://hbr.org/2018/06/how-to-identify-and-tell-your-most-powerful-stories) | Harvard Business Review | 21/06/2018 | 
 | https://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/  
 https://www.socialmediatoday.com/content/7-story-archetypes-and-how-they-can-dramatically-improve-your-marketing  
