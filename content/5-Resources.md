@@ -4,7 +4,6 @@ nav: Resources for this tutorial
 ---
    
 ### Pages we used to learn about storytelling
-
 | **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
 | Brent Dykes | [Data Storytelling: The Essential Data Science Skill Everyone Needs](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#5564188952ad) | Forbs | 31/03/2016 |
 | Brent Dykes | [Adventures In Data Storytelling: Three Key Traps To Avoid](https://www.forbes.com/sites/brentdykes/2017/04/25/adventures-in-data-storytelling-three-key-traps-to-avoid/#7ac575783234) | Forbs | 25/04/2017 |
@@ -13,7 +12,6 @@ nav: Resources for this tutorial
 | Brett Mensh, Konrad Kording | [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) | PLOS Computational Biology | 28/09/2017 | <br /> 
     
 ### Learn more  
-
 | **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
 | Mike Morrison | [How to create a better research poster in less time](https://www.youtube.com/watch?v=1RwJbhkCA58) | YouTube | 26/05/2019 |
 | Nancy Durate | [How to identiyfy and tell your most powerful stories](https://hbr.org/2018/06/how-to-identify-and-tell-your-most-powerful-stories) | Harvard Business Review | 21/06/2018 |
@@ -24,11 +22,8 @@ nav: Resources for this tutorial
 
 
 ### Images we used:  
-Brick wall, author: Pawel Wozniak, licence:  Creative Commons Attribution-Share Alike 3.0 Unported, URL: https://commons.wikimedia.org/wiki/File:Brick_wall_close-up_view.jpg  
-
+| **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
 Ignaz Semmenwies, Scanned by Michael F. Schönitzer Licence: Public Domain, URL: https://commons.wikimedia.org/wiki/Ignaz_Semmelweis#/media/File:Ignaz_Semmelweis.jpg  
 Simple data storytelling techniques  
-https://www.anychart.com/blog/2017/04/05/chart-captions-title-graph-tips/  
-https://www.microsoft.com/en-us/microsoft-365/blog/2013/06/21/adding-rich-data-labels-to-charts-in-excel-2013/  
-From a book “Storytelling with data: A data visualization guide for business professionals” p208 and p210  
-
+| AnyChart Team | [How to name a graph: Tips for writing great chart captions](https://www.anychart.com/blog/2017/04/05/chart-captions-title-graph-tips/) | AnyChart | 05/04/2017 | Excel team | [Adding rich data labels to charts in Excel 2013](https://www.microsoft.com/en-us/microsoft-365/blog/2013/06/21/adding-rich-data-labels-to-charts-in-excel-2013/) | Microsoft | 21/06/2013| 
+| Cole Nussbaumer Knaflic | Storytelling with data: A data visualization guide for business professionals | Wiley | 2015 |
