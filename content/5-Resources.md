@@ -19,17 +19,9 @@ nav: Resources for this tutorial
 | Nancy Durate | [How to identiyfy and tell your most powerful stories](https://hbr.org/2018/06/how-to-identify-and-tell-your-most-powerful-stories) | Harvard Business Review | 21/06/2018 |
 | Nayomi Chibana | [7 Storytelling techniques Used by the Most Inspiring TED Presenters](https://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/) | Visme | 2015 |
 | Tommy Walker | [The 7 story archetypes, and how they can dramatically improve your marketing](https://www.socialmediatoday.com/content/7-story-archetypes-and-how-they-can-dramatically-improve-your-marketing) | Social Media Today | 31/10/2011 | 
-
-Why tell your story:  
 |John C. Besley, Anthony Dudo | [What it means to 'know your audience' when communicating about science](https://theconversation.com/what-it-means-to-know-your-audience-when-communicating-about-science-111147) | The Conversation | 16/04/2019 |  
-| Brent Dykes | [Data Storytelling: The Essential Data Science Skill Everyone Needs](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#4a7cb01152ad) | Forbs | 31/03/2016 |  
+| Hans Rosling | [Gapminder tool](https://www.gapminder.org/) | Gapminder | |
 
-
-Gapminder tool, Author: Hans Rosling, Licence Open Source, URL: https://www.gapminder.org/tools/  
-Slope Challenge, Author Simon B and FIFA.com, URL: http://www.storytellingwithdata.com/blog/2018/6/19/june-swdchallenge-recap-slopegraphs  
-
-Bring on the Bar charts, Author: Joshua Dean Smith, URL: http://www.storytellingwithdata.com/blog/2018/3/9/bring-on-the-bar-charts  
-Progression of Men’s Marathon World Record, Author @alimotion for #SWDchallenge, URL: https://en.wikipedia.org/wiki/Maratho_world_record_progression  
 
 ### Images we used:  
 Brick wall, author: Pawel Wozniak, licence:  Creative Commons Attribution-Share Alike 3.0 Unported, URL: https://commons.wikimedia.org/wiki/File:Brick_wall_close-up_view.jpg  
