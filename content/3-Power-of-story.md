@@ -1,6 +1,6 @@
 ---
 title: Power of story
-nav: Narrative
+nav: Power of story
 description:
 ---
 In this section, we explore the power of story. 
