@@ -1,5 +1,5 @@
 ---
-title: Visuals
+title: Visualisation
 nav: Visualisations
 ---
 {% include figure.html img="Data-Visualization.jpg" alt="DataToViz" caption="Visuals!" width="80%" %}
@@ -52,7 +52,7 @@ There are a couple of simple techniques to make your point clearer. Here is a fe
 - Highlight areas
 
 What do they mean? Have a look at the video below!
-{% include video-embed.html youtubeid="DUAshxt_F2A" caption="3 techniques to make your point clear" %}
+{% include video-embed.html youtubeid="Z0UXiZbSAHM" caption="3 techniques to make your point clear" %}
 
 
 Are you inspired by looking at examples of beautiful visuals?
