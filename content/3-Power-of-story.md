@@ -3,7 +3,7 @@ title: Power of story
 nav: Power of story
 description:
 ---
-{% include figure.html img="book-CC0.jpg" alt="Power of story!" caption="Power of story" width="60%" %}
+{% include figure.html img="book-CC0.jpg" alt="Power of story!" caption="Power of story" width="75%" %}
 In this section, we explore the power of story. 
 Story is a very powerful stuff - it gets people together.
 How do you develop your story? There are a couple of hints:
