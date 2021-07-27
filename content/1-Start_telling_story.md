@@ -17,11 +17,11 @@ So you can craft a story or a message for them.
 Building a narrative around your data can help you focus on what you really want to say
 
 ## What you need to do
-#### Storyboard your ideas
-You have to get the actual message together before you can tell a story.  
+#### Storyboard/storymap your ideas
+You have to get the actual message together before you can tell a story. [Power of story](https://masamiy.github.io/content/3-Power-of-story.html) covers more detail about this technique. 
 
 #### Refine by de-cluttering
-It can help you articulate the impact of your story.
+It can help you articulate the impact of your story. Do not be afraid of cluttering!
 
 
 Let's have a look at beautiful and not so beautiful visual examples at [next page](https://masamiy.github.io/content/2-Visuals.html).
