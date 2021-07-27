@@ -10,7 +10,7 @@ nav: Resources for this tutorial
 | Brent Dykes | [Adventures In Data Storytelling: Three Key Traps To Avoid](https://www.forbes.com/sites/brentdykes/2017/04/25/adventures-in-data-storytelling-three-key-traps-to-avoid/#7ac575783234) | Forbs | 25/04/2017 |
 | Seth Grimes | [Breatkthrough Analysis: Make Your Data Tell a Story](http://www.informationweek.com/software/information-management/breakthrough-analysis-make-your-data-tell-a-story/d/d-id/1049675?) | Information Week | 08/12/2006 |  
 | Lindy Ryan | [5 steps to Visual Data Storytelling to Make Data Easier to Understand](http://www.dbta.com/BigDataQuarterly/Articles/5-Steps-to-Visual-Data-Storytelling-to-Make-Data-Easier-to-Understand-111512.aspx) | Big Data Quarterly | 07/06/2016 | 
-| Brett Mensh, Konrad Kording | [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) | PLOS Computational Biology | 28/09/2017 |  
+| Brett Mensh, Konrad Kording | [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) | PLOS Computational Biology | 28/09/2017 | <br /> 
     
 ### Learn more  
 
@@ -20,7 +20,7 @@ nav: Resources for this tutorial
 | Nayomi Chibana | [7 Storytelling techniques Used by the Most Inspiring TED Presenters](https://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/) | Visme | 2015 |
 | Tommy Walker | [The 7 story archetypes, and how they can dramatically improve your marketing](https://www.socialmediatoday.com/content/7-story-archetypes-and-how-they-can-dramatically-improve-your-marketing) | Social Media Today | 31/10/2011 | 
 |John C. Besley, Anthony Dudo | [What it means to 'know your audience' when communicating about science](https://theconversation.com/what-it-means-to-know-your-audience-when-communicating-about-science-111147) | The Conversation | 16/04/2019 |  
-| Hans Rosling | [Gapminder tool](https://www.gapminder.org/) | Gapminder | |
+| Hans Rosling | [Gapminder tool](https://www.gapminder.org/) | Gapminder | |<br />
 
 
 ### Images we used:  
