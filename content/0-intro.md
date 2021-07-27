@@ -6,13 +6,11 @@ topics:
 
 {% include figure.html img="Data_Narrative_Visuals.png" alt="cat" caption="Data Storytelling elements" width="70%" %}
 
-So, what is data storytelling? Data storytelling is a structured approach for communicating data insights, and it involves a combination of three key elements: Data, Visuals & Narrative. Data storytelling is a combination of data, visuals and narrative. The combination of the three can help you explain, enlighten and engage your audience.
+So, what is data storytelling? Data storytelling is a structured approach for communicating data insights, and involves a combination of three key elements: data, visuals and narrative. The combination of the three can help you explain, enlighten and engage your audience.
 Buildling a narrative around your data, can help you focus on what you really want to say.
 - Because you have to get the actual message together before you can tell a story.
 - It can help you articulate the impcat of your story.
 - It means you will be considering who your audience is and crafting a story or a message for them.
-
-
 
 And data means nothing without context, without a story around it and using a narrative can provide context and direction.
 Stories are effective in communicating meaning locked in data.
@@ -41,4 +39,4 @@ Do you think you would feel the same excitement if he presented his finding in a
 {% include figure.html img="Excel.png" alt="cat" caption="Gapminder row data" width="70%" %}
 
 
-We start exploring how we can start telling a story from the next section.
+We start exploring how we can start telling a story from the [next section](https://masamiy.github.io/content/1-Start_telling_story.html).
