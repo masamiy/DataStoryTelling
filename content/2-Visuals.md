@@ -51,8 +51,8 @@ There are a couple of simple techniques to make your point clearer. Here is a fe
 - Callouts
 - Highlight areas
 
-What do they mean? Have a look at [the video (Masami)]() below!
-
+What do they mean? Have a look at the video below!
+{% include video-embed.html youtubeid="DUAshxt_F2A" caption="3 techniques to make your point clear" %}
 
 
 Are you inspired by looking at examples of beautiful visuals?
