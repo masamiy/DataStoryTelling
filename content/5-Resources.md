@@ -19,11 +19,13 @@ nav: Resources for this tutorial
 | Mike Morrison | [How to create a better research poster in less time](https://www.youtube.com/watch?v=1RwJbhkCA58) | YouTube | 26/05/2019 |
 | Nancy Durate | [How to identiyfy and tell your most powerful stories](https://hbr.org/2018/06/how-to-identify-and-tell-your-most-powerful-stories) | Harvard Business Review | 21/06/2018 |
 | Nayomi Chibana | [7 Storytelling techniques Used by the Most Inspiring TED Presenters](https://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/) | Visme | 2015 |
+| Tommy Walker | [The 7 story archetypes, and how they can dramatically improve your marketing](https://www.socialmediatoday.com/content/7-story-archetypes-and-how-they-can-dramatically-improve-your-marketing) | Social Media Today | 31/10/2011 | 
 
-https://www.socialmediatoday.com/content/7-story-archetypes-and-how-they-can-dramatically-improve-your-marketing  
 Why tell your story:  
-https://theconversation.com/what-it-means-to-know-your-audience-when-communicating-about-science-111147  
-Data Storytelling: The Essential Data Science Skill Everyone Needs, Author Brent Dykes, licence: Creative Commons Attribution-Share Alike 2.5 Generic, URL: https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#4a7cb01152ad  
+|John C. Besley, Anthony Dudo | [What it means to 'know your audience' when communicating about science](https://theconversation.com/what-it-means-to-know-your-audience-when-communicating-about-science-111147) | The Conversation | 16/04/2019 |  
+| Brent Dykes | [Data Storytelling: The Essential Data Science Skill Everyone Needs](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#4a7cb01152ad) | Forbs | 31/03/2016 |  
+
+
 Gapminder tool, Author: Hans Rosling, Licence Open Source, URL: https://www.gapminder.org/tools/  
 Slope Challenge, Author Simon B and FIFA.com, URL: http://www.storytellingwithdata.com/blog/2018/6/19/june-swdchallenge-recap-slopegraphs  
 
