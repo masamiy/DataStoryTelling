@@ -41,9 +41,16 @@ If you are thinking of developing some visuals with R / Python, they will give y
   
 ## Make sure your point can be seen
 There are amazing and pretty looking visualisations, but, some visualisations may not be so clear that viewers can be confused and get lost.
-Here are some examples with before and after [video (Brett)]:
- {% include figure.html img="Unclear_example.png" alt="" caption="Got it?" width="50%" %}
- {% include figure.html img="Unclear_example2.png" alt="" caption="Got it?" width="50%" %}
+So pictorials are amazing for relaying often complex and large amounts of information in easy to understand format. We can create some amazing, pretty and colourfully graphs, but if the user cannot clearly understand the point you are trying to relay, then the graph has failed. 
+The following graphs try to show cumulative GDP across the world.
+
+{% include figure.html img="dognut_graph.png" alt="" width="50%" %}
+Pie and donut charts can be tricky to interpret, our minds have difficulty converting angles to units of measurement. A bar graph may be better as the units of measurement are stacked next to each other, making direct comparisons possible. 
+{% include figure.html img="bar_graph1.png" alt="" width="50%" %}
+Now with the box plot we can directly compare between countries, there are far to many catagories (in this case countries, the number of countries) which create clutter and our minds wander distracting from the point being made.
+{% include figure.html img="bar_graph2.png" alt="" width="50%" %}
+If we plot by region then suddenly we can very clearly see that Africa is the poorest region and Europe is the richest!
+
 
 ## Simple techniques to make your point clear
 There are a couple of simple techniques to make your point clearer. Here is a few:
