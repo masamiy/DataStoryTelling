@@ -1,11 +1,12 @@
 ---
 title: Power of story
-nav: Narrative
+nav: Power of story
 description:
 ---
+{% include figure.html img="book-CC0.jpg" alt="Power of story!" caption="Power of story" width="75%" %}
 In this section, we explore the power of story. 
 Story is a very powerful stuff - it gets people together.
-How do you develop your story? There are a couple of hits:
+How do you develop your story? There are a couple of hints:
 
 ## Frame your ideas with your audience's view
 Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values/views.

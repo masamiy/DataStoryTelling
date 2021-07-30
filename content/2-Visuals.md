@@ -1,6 +1,6 @@
 ---
-title: Visuals
-nav: Visualisations
+title: Visualisation
+nav: Visualisation
 ---
 {% include figure.html img="Data-Visualization.jpg" alt="DataToViz" caption="Visuals!" width="80%" %}
 We now explore some examples of visualisations. Be aware there are so many possibilities out there for visualising your data. Think beyond the standard line or bar graphs!
@@ -58,8 +58,8 @@ There are a couple of simple techniques to make your point clearer. Here is a fe
 - Callouts
 - Highlight areas
 
-What do they mean? Have a look at [the video (Masami)]() below!
-
+What do they mean? Have a look at the video below!
+{% include video-embed.html youtubeid="Z0UXiZbSAHM" caption="3 techniques to make your point clear" %}
 
 
 Are you inspired by looking at examples of beautiful visuals?
