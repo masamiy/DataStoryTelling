@@ -8,7 +8,7 @@ Every piece of information we learn is founded on something we have already lear
 - Sequencing different types of visualisations
 - Drilling deeper into a single visualisaion
 
-## Putting it together
+## Putting things together
 Do you know Dr Ignaz Semmelweis? 
 {% include figure.html img="DrSemmelweis.png" alt="Dr Semmelweis" caption="Dr Semmelweis" width="50%" %}
 
