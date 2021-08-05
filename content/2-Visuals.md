@@ -51,7 +51,7 @@ Now with the box plot we can directly compare between countries, there are far t
 {% include figure.html img="bar_graph2.png" alt="" width="50%" %}
 If we plot by region then suddenly we can very clearly see that Africa is the poorest region and Europe is the richest! But there is variation within regions. In Europe Switzerland is insanely rich, will Moldovia is definately not.
 
-{% include figure.html img="map_1.png" alt="" width="50%" %}
+{% include figure.html img="map_1.png" alt="" width="75%" %}
 A heatmap displays this data the best, you can see the general regional trends, but within these regions there is also wealth inequality.
 
 ## Simple techniques to make your point clear
