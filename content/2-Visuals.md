@@ -44,11 +44,11 @@ There are a wide array of amazing and visually stunning visualisations to choose
 If the audience cannot clearly understand the point you are trying to relay, then the visualisation has failed. 
 The following visualisation display this point, the first is impossible to get meaning from, and the message is improved with each following one. They visualise the indexed cumulative GDP for each country between 1800-2020 (i.e. the sum gdp of each country standardised across all countries). Lets attempt to demonstrate through the visualisations that wealth is very unevenly distributed across the globe.
 
-{% include figure.html img="dognut_graph.png" alt="" width="50%" %}
+{% include figure.html img="dognut_graph.png" alt="" width="80%" %}
 Pie and donut charts can be tricky to interpret, our minds have difficulty converting angles to units of measurement. A bar graph may be better as the units of measurement are stacked next to each other, making direct comparisons possible. 
-{% include figure.html img="bar_graph1.png" alt="" width="50%" %}
+{% include figure.html img="bar_graph1.png" alt="" width="70%" %}
 Now with the box plot we can directly compare between countries, there are far to many catagories (in this case the number of countries) which create clutter and our minds wander.
-{% include figure.html img="bar_graph2.png" alt="" width="50%" %}
+{% include figure.html img="bar_graph2.png" alt="" width="60%" %}
 If we plot by region then suddenly we can very clearly see that Africa is the poorest region and Europe is the richest! But there is variation within regions. In Europe Switzerland is insanely rich, will Moldovia is definately not.
 
 {% include figure.html img="map_1.png" alt="" width="75%" %}
