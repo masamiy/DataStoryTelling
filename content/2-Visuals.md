@@ -46,12 +46,12 @@ The following visualisation display this point, the first is impossible to get m
 
 {% include figure.html img="dognut_graph.png" alt="" width="80%" %}
 Pie and donut charts can be tricky to interpret, our minds have difficulty converting angles to units of measurement. A bar graph may be better as the units of measurement are stacked next to each other, making direct comparisons possible. 
-{% include figure.html img="bar_graph1.png" alt="" width="70%" %}
+{% include figure.html img="bar_graph1.png" alt="" width="80%" %}
 Now with the box plot we can directly compare between countries, there are far to many catagories (in this case the number of countries) which create clutter and our minds wander.
-{% include figure.html img="bar_graph2.png" alt="" width="60%" %}
+{% include figure.html img="bar_graph2.png" alt="" width="80%" %}
 If we plot by region then suddenly we can very clearly see that Africa is the poorest region and Europe is the richest! But there is variation within regions. In Europe Switzerland is insanely rich, will Moldovia is definately not.
 
-{% include figure.html img="map_1.png" alt="" width="75%" %}
+{% include figure.html img="map_1.png" alt="" width="80%" %}
 A heatmap displays this data the best, you can see the general regional trends, but within these regions there is also wealth inequality.
 
 ## Simple techniques to make your point clear
