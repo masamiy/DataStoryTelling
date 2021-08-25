@@ -26,18 +26,17 @@ For example, if you have someone that isn’t that interested in the environment
 The rising cost of insurance due to more natural disasters, caused by the change in weather cycles
 The financial benefit and potential profit of hosting electronic vehicle production in Australia or cheap maintenance on solar farms vs profit
 
-#### Success story by Bono (U2)
+#### Success story from Bono (U2)
 Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is [a nice article](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html) to read. 
 
-### Activity time
-{% include figure.html img="learning-CC0.png" alt="Storyboarding" caption="activity time!" width="60%" %}
-- What is your research topic?
-- Think how you explain your research to an expert in your field.
-- Then, think how you explain your research to your non-expert friends.
+### Activity - How do you explain your research to your non-expert friends?
+You have an opportunity to explain your research to an expert in your field. At the same time, you may have a chance to talk about your research to your non-expert family members and/or friends. Are you going to talk the same way to different audiences? Do you think your non-expert audience understands your research topic if you talk the same way you talk to experts? Does your non-expert audience know jargons? So, in this exercise, please  think:
+1. Think how you explain your research to an expert in your field.
+2. Think how you explain your research to your non-expert family members and/or friends.
 
 ## Structure your story
-Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.” 
-Narrative flow = Story (how it might be described in chronological order) + Plot (how the story is told)
+Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.” </br>
+Remember, Narrative flow = Story (how it might be described in chronological order) + Plot (how the story is told)
 
 ### Storyboarding
 A storyboard is a planning tool for visualising and organising ideas
@@ -48,4 +47,4 @@ A storyboard helps you:
 Figure out what medium to use for each part of the story
 {% include figure.html img="Storyboarding.png" alt="Storyboarding" caption="Storyboarding example" width="75%" %}
 
-It is time to [put things together](https://masamiy.github.io/content/4-Putting-things-together.html)!
+Now, it is time to [put things together](https://masamiy.github.io/content/4-Putting-things-together.html)!
