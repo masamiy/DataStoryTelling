@@ -36,8 +36,12 @@ If you are thinking of developing some visuals with R / Python, they will give y
 {% include figure.html img="DataToViz.png" alt="DataToViz" caption="dada-to-viz.com" width="60%" %}
 
 ### Inspired by examples
-[Data Viz Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
+[Data vis Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
 {% include figure.html img="Data_Viz_Project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
+
+### ... and a little more
+You can explore and learn coding-free publication quality visualiation tools from [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/).
+{% include figure.html img="Data_visualisation_basics.png" alt="Data Visualisation Basics.png" caption="Data Visualisation Basics" width="50%" %} 
   
 ## Make sure your point can be seen
 There are a wide array of amazing and visually stunning visualisations to choose from. But ask yourself, does this visualisations clearly relay the message that I want my audience to take away, or do they get confused or take a different message away.
