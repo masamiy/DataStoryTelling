@@ -22,7 +22,8 @@ nav: Resources for this tutorial
 | Nayomi Chibana | [7 Storytelling techniques Used by the Most Inspiring TED Presenters](https://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/) | Visme | 2015 |
 | Tommy Walker | [The 7 story archetypes, and how they can dramatically improve your marketing](https://www.socialmediatoday.com/content/7-story-archetypes-and-how-they-can-dramatically-improve-your-marketing) | Social Media Today | 31/10/2011 | 
 |John C. Besley, Anthony Dudo | [What it means to 'know your audience' when communicating about science](https://theconversation.com/what-it-means-to-know-your-audience-when-communicating-about-science-111147) | The Conversation | 16/04/2019 |  
-| Hans Rosling | [Gapminder tool](https://www.gapminder.org/) | Gapminder | |  
+| Hans Rosling | [Gapminder tool](https://www.gapminder.org/) | Gapminder | |
+| Craig Cormick | [Top tips for getting your science out there](https://www.nature.com/articles/d41586-020-00239-6) | Nature | 20/01/2020|
 
 <br />
 
