@@ -35,7 +35,7 @@ You have an opportunity to explain your research to an expert in your field. At 
 2. Think how you explain your research to your non-expert family members and/or friends.
 
 ## Structure your story
-Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.” </br>
+A professional science communicator, Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.”
 Remember, Narrative flow = Story (how it might be described in chronological order) + Plot (how the story is told)
 
 ### Storyboarding
