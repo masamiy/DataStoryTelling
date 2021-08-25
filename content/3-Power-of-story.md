@@ -47,5 +47,6 @@ A storyboard helps you:
 - Organize and focus a story
 Figure out what medium to use for each part of the story
 {% include figure.html img="Storyboarding.png" alt="Storyboarding" caption="Storyboarding example" width="75%" %}
+{% include figure.html img="Story_map.png" alt="Storybmappingg" caption="Storymapping example" width="75%" %}
 
 Now, it is time to [put things together](https://masamiy.github.io/content/4-Putting-things-together.html)!
