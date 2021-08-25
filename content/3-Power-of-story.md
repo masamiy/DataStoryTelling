@@ -36,6 +36,7 @@ You have an opportunity to explain your research to an expert in your field. At 
 
 ## Structure your story
 A professional science communicator, Craig Cormick says that “Knowing your audience and your communication objective is crucial, but if you can turn your message into a story, it has a much better chance of being accepted.”
+<br />
 Remember, Narrative flow = Story (how it might be described in chronological order) + Plot (how the story is told)
 
 ### Storyboarding
