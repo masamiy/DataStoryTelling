@@ -28,7 +28,7 @@ He was a medical doctor, who made a great discovery when he was working at Vienn
 - Relied primarily on data tables
 - Ignored the Visual effect of graphs
 
-### Activity time
+### Activity - How would you tell Dr Semmelwise's discovery?
 {% include figure.html img="learning-CC0.png" alt="Storyboarding" caption="activity time!" width="60%" %}
 If you were Dr Semmelweis, how would you storyboard your ideas and re-tell your story?
 
