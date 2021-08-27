@@ -37,7 +37,9 @@ Things you may want to think are:
 - What would be your call to action? - Not sure that I understand 'call to action"
 - Develop a brief flow of ideas about how you would most logically convey the story.
 
-<br/>
+<br />
+<br />
+
 -------------------------------------------------------------------------------------
 ## You are done!
 {% include figure.html img="Well_Done_CC0.jpg" alt="Dr Semmelweis" caption="Well done!" width="80%" %}
