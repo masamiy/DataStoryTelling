@@ -31,7 +31,7 @@ This knowledge is what we want to share with people.
 
 ### Activity - Gapminder
 
-I want you to watch this 4 minutes[Gapminder video](https://youtu.be/jbkSRLYSojo) and see how Hans Rosling's narrative enhances your understanding about data presented with a visual. 
+I want you to watch this 4 minutes' [Gapminder video](https://youtu.be/jbkSRLYSojo) and see how Hans Rosling's narrative enhances your understanding about data presented with a visual. 
 {% include video-embed.html youtubeid="jbkSRLYSojo" caption="Gapminder" %}
 
 
