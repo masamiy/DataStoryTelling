@@ -11,7 +11,7 @@ We now explore some examples of visualisations. Be aware there are so many possi
 
 ### Timelapse
 - You can highlight that time lapses would work well for event set ups, constructing buildings, or use of infrastructure throughout a day. This Pea Shoot video is very peaceful and therapeutic. 
-{% include video-embed.html youtubeid="w77zPAtVTuI" caption="Visualise Your Thesis" %}
+{% include video-embed.html youtubeid="w77zPAtVTuI" caption="Bean Time-Lapse" %}
 
 - Google Earth Timelapse
 [Google Earth Timelapse](https://earthengine.google.com/timelapse/) is a global, zoomable video that lets you see how the Earth has changed.
@@ -40,7 +40,7 @@ If you are thinking of developing some visuals with R / Python, they will give y
 {% include figure.html img="Data_Viz_Project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
 
 ### ... and a little more
-You can explore and learn coding-free publication quality visualiation tools from [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/).
+You can explore and learn coding-free publication quality visualiation tools from [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/) online tutorial.
 {% include figure.html img="Data_visualisation_basics.png" alt="Data Visualisation Basics.png" caption="Data Visualisation Basics" width="70%" %} 
   
 ## Make sure your point can be seen
