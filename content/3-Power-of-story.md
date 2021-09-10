@@ -18,7 +18,7 @@ You can see beutiful summaries of scientific findings in [Useful Science](https:
 
 ### Biases to be aware of - Confirmation bias
 "We give special weight to information that allows us to come to the conclusion we want to reach." We tend to cherry-pick information that confirms our existing beliefs or ideas.
-{% include figure.html img="biases.png" alt="Biases to be aware of" caption="Biases to be aware of" width="75%" %}
+{% include figure.html img="biases.png" alt="Biases to be aware of" caption="Biases to be aware of" width="70%" %}
 
 #### How to challenge bias?
 If possible, get some background understanding of your audience. What would their current perception be, or potential concerns around the topic of interest? Can you approach your topic from a different direction?
