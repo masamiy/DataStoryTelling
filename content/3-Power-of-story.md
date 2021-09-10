@@ -17,11 +17,11 @@ You can see beutiful summaries of scientific findings in [Useful Science](https:
 
 
 ### Biases to be aware of - Confirmation bias
-"We give special weight to information that allows us to come to the conclusion we want to reach." We tend to cherry-pick information that confirms our existing beliefs or ideas.
+We tend to interpret information as confirmation of our existing beliefs and/or ideas. It is called "confirmation bias". So, it is a challenge to interpret information in an unbiased way. How can we convince others with your story then?
 {% include figure.html img="biases.png" alt="Biases to be aware of" caption="Biases to be aware of" width="70%" %}
 
 #### How to challenge bias?
-If possible, get some background understanding of your audience. What would their current perception be, or potential concerns around the topic of interest? Can you approach your topic from a different direction?
+If possible, get some background understanding of your audience. What would their current perception be, or potential concerns around the topic of interest? Can you approach your topic from a different direction?
 For example, if you have someone that isn’t that interested in the environment, and thinks that environmental laws cost too much money for business, but you want to highlight climate change, talk about :
 
 The rising cost of insurance due to more natural disasters, caused by the change in weather cycles
