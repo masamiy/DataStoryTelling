@@ -17,7 +17,7 @@ You can see beutiful summaries of scientific findings in [Useful Science](https:
 
 
 ### Biases to be aware of - Confirmation bias
-We tend to interpret information as confirmation of our existing beliefs and/or ideas. It is called "confirmation bias". So, it is a challenge to interpret information in an unbiased way. How can we convince others with your story then?
+It is a challenge to interpret information in an unbiased way as we tend to interpret information as confirmation of our existing beliefs and/or ideas. It is called "confirmation bias". How can we convince others with your story then?
 {% include figure.html img="biases.png" alt="Biases to be aware of" caption="Biases to be aware of" width="70%" %}
 
 #### How to challenge bias?
