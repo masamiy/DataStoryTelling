@@ -11,7 +11,7 @@ nav: Resources
 | Seth Grimes | [Breatkthrough Analysis: Make Your Data Tell a Story](http://www.informationweek.com/software/information-management/breakthrough-analysis-make-your-data-tell-a-story/d/d-id/1049675?) | Information Week | 08/12/2006 |  
 | Lindy Ryan | [5 steps to Visual Data Storytelling to Make Data Easier to Understand](http://www.dbta.com/BigDataQuarterly/Articles/5-Steps-to-Visual-Data-Storytelling-to-Make-Data-Easier-to-Understand-111512.aspx) | Big Data Quarterly | 07/06/2016 | 
 | Brett Mensh, Konrad Kording | [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) | PLOS Computational Biology | 28/09/2017 |
-| Farnam Street | [Confirmation bias and the power of disconfirming evicence](https://fs.blog/2017/05/confirmation-bias/) | Farnam Street Media | |
+| Farnam Street | [Confirmation bias and the power of disconfirming evicence](https://fs.blog/2017/05/confirmation-bias/) | Farnam Street Media | 2017 |
 
 <br />
     
