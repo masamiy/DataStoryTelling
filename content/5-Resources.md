@@ -1,6 +1,6 @@
 ---
 title: Resources
-nav: Resources for this tutorial
+nav: Resources
 ---
    
 ### Pages we used for the content
@@ -39,6 +39,6 @@ nav: Resources for this tutorial
 | Excel team | [Adding rich data labels to charts in Excel 2013](https://www.microsoft.com/en-us/microsoft-365/blog/2013/06/21/adding-rich-data-labels-to-charts-in-excel-2013/) | Microsoft | 21/06/2013| 
 | Cole Nussbaumer Knaflic | Storytelling with data: A data visualization guide for business professionals | Wiley | 2015 |
 | ELAMP | [Story maps](http://elamp.blogspot.com/2011/05/story-maps.html) || 2021 |
-| Farnam Street | [Confirmation bias and the power of disconfirming evicence](https://fs.blog/2017/05/confirmation-bias/) | Farnam Street Media | |
+| Farnam Street | [Confirmation bias and the power of disconfirming evicence](https://fs.blog/2017/05/confirmation-bias/) | Farnam Street Media | 2017 |
 
 
