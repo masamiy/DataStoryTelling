@@ -15,18 +15,17 @@ Facts and evidence rarely help as people tend to reject any information or facts
 You can see beutiful summaries of scientific findings in [Useful Science](https://www.usefulscience.org/). The aim of the site is to make science useful in daily life by telling  a new discovery in 5 seconds' reading to wider and non-specifice audience.
 {% include figure.html img="Useful_Science.png" alt="Storyboarding" caption="usefulscience.org" width="75%" %}
 
-
 ### Biases to be aware of - Confirmation bias
 It is a challenge to interpret information in an unbiased way as we tend to interpret information as confirmation of our existing beliefs and/or ideas. It is called "confirmation bias". How can we convince others with your story then?
-{% include figure.html img="biases.png" alt="Biases to be aware of" caption="Biases to be aware of" width="70%" %}
 
 #### How to challenge bias?
 If possible, get some background understanding of your audience. What would their current perception be, or potential concerns around the topic of interest? Can you approach your topic from a different direction?
 For example, if you have someone that isn’t that interested in the environment, and thinks that environmental laws cost too much money for business, but you want to highlight climate change, talk about :
-
 The rising cost of insurance due to more natural disasters, caused by the change in weather cycles
 The financial benefit and potential profit of hosting electronic vehicle production in Australia or cheap maintenance on solar farms vs profit
 
+#### Interesting article about confirmation bias
+[A blog post by Farnan Street (Confirmation bias and the power of disconfirming evidence)](https://fs.blog/2017/05/confirmation-bias/) is an interesting to read. You will understand why some people do not see a point you want to make.
 #### Success story from Bono (U2)
 Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is [a nice article](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html) to read. 
 
